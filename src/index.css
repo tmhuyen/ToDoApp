@@ -1,0 +1,30 @@
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+button {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.error {
+    size: 12px;
+    font-style: italic;
+    color: red;
+}
+.status-btn {
+    width: 200px;
+    background-color: #f4b836;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
